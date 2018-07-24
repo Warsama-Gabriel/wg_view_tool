@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Implementing view methods as tools for applications I will be using.}
   spec.description   = %q{Gem generates HTML data for use by Rails apps.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Warsama-Gabriel/wg_view_tool"
   spec.license       = "MIT"
 
 
