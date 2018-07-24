@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WGViewTool::Renderer.copyright('Warsama Gabriel', 'All rights reserved')
+```
 
 ## Development
 
