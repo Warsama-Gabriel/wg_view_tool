@@ -1,6 +1,6 @@
 # WgViewTool
 
-> This is a gem that will create view methods as tools for applications I will be using.
+> I made a gem that will hold custom view methods that are shared between different applications.
 
 ## Installation
 
